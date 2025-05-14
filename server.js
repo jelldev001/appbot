@@ -170,3 +170,4 @@ function callSendAPI(senderPsid, response) {
 app.listen(port, () => {
   console.log(`Server กำลังทำงานที่ port ${port}`);
 });
+///ssh-keygen -t ed25519 -C "jelllydev99007788@example.com"
